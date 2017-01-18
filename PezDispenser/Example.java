@@ -39,7 +39,5 @@ public class Example {
 	    System.out.printf("The error was %s \n",
 						    iae.getMessage());
     }
-    
-    
   }
 }
