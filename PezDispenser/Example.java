@@ -13,7 +13,7 @@ public class Example {
     if (dispenser.isEmpty()){
       System.out.println("Dispenser is empty");
     }
-    
+    //Filling the dispenser method
     System.out.println("Filling the dispenser with delicious PEZ...");
     dispenser.fill();
     if(!dispenser.isEmpty()){
